@@ -35,7 +35,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>AndroidRegression.xml</suiteXmlFile>
+                        <suiteXmlFile>DepartureRegression.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <environmentVariables>
                         <device_name>${device_name}</device_name>
