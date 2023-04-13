@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="57735" started-at="2023-04-13T16:50:47 EEST" finished-at="2023-04-13T16:51:45 EEST">
+    <groups>
+      <group name="onboarding">
+        <method signature="DeparturePreferences.continueAsAGuestFlow()[pri:0, instance:DeparturePreferences@4b4523f8]" name="continueAsAGuestFlow" class="DeparturePreferences"/>
+      </group> <!-- onboarding -->
+    </groups>
+    <test name="Departure Regression" duration-ms="57735" started-at="2023-04-13T16:50:47 EEST" finished-at="2023-04-13T16:51:45 EEST">
+      <class name="DeparturePreferences">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DeparturePreferences@4b4523f8]" name="setUp" is-config="true" duration-ms="19422" started-at="2023-04-13T16:50:47 EEST" finished-at="2023-04-13T16:51:06 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="continueAsAGuestFlow()[pri:0, instance:DeparturePreferences@4b4523f8]" name="continueAsAGuestFlow" duration-ms="37430" started-at="2023-04-13T16:51:06 EEST" finished-at="2023-04-13T16:51:44 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueAsAGuestFlow -->
+      </class> <!-- DeparturePreferences -->
+    </test> <!-- Departure Regression -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
